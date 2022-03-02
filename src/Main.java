@@ -79,6 +79,7 @@ public class Main {
                                         if (cadastro3 == 1) {
                                             System.out.println("Conteúdos inscritos: " + dev.getConteudosInscritos());
                                         }
+
                                     }
                             }
                         }while(opcao2 < 2);
